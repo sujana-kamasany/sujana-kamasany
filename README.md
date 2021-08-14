@@ -1,10 +1,10 @@
-<img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/Cover%20photo%20-%20Copy.jpeg"/>
+<img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/github.jpg"/>
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
 <h3 align="center">A passionate third year Computer Science Student who loves Tech, Coding, Photography and Art.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 💻 I'm interested in **Web Development, Cyber Security, and Machine Learning**
 
-- 💻 
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C,C++,Python, SQL, Java, Photography <3, digital illustration**
 
