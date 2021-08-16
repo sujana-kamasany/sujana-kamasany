@@ -1,6 +1,6 @@
 <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/github.jpg"/>
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
-<h3 align="center">A passionate third year Computer Science Student who loves Tech, Coding, Photography and Art.</h3>
+<h3 align="center">A passionate third year Computer Science Engineering Student who loves Tech, Coding, Photography and Art.</h3>
 
 - 💻 I'm interested in **Web Development, Cyber Security, and Machine Learning**
 
