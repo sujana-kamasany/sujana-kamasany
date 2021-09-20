@@ -1,4 +1,4 @@
-<img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/github%20back.jpg"/>
+<img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/github%20bg.jpg"/>
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
 <h3 align="center">A passionate third year Computer Science Engineering Student who loves Tech, Coding, Photography and Art.</h3>
 
