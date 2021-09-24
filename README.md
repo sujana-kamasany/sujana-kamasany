@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C,C++,Python, SQL, Java, Photography <3, digital illustration**
+- 💬 Ask me about **C, C++, Python, Java, Photography, digital illustration**
 
 - 📫 How to reach me **sujanakamasany@gmail.com**
 
