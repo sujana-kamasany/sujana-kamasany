@@ -2,11 +2,10 @@
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
 <h3 align="center">A passionate third year Computer Science Engineering Student who loves Tech, Coding, Photography and Art.</h3>
 
-- 💻 I'm interested in **Web Development, Cyber Security, and Machine Learning**
+- 🌱 I’m currently learning **Web Development** and exploring the fields of Cyber Security 💻 and  Machine Learning.
 
-- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C, C++, Python, Java, Photography, digital illustration**
+- 💬 Ask me about **C, Python and Photography 📸**
 
 - 📫 How to reach me **sujanakamasany@gmail.com**
 
