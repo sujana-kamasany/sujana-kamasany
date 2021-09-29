@@ -1,8 +1,6 @@
 <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/github%20bg.jpg"/>
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
-<h3 align="center">A passionate third year Computer Science Engineering Student who loves Tech,Coding, 
-  
-  Photography and Art.</h3>
+<h3 align="center">A Computer Science undergrad Student who is exploring the world of Tech!</h3>
 
 - 🌱 I’m currently learning **Web Development** and exploring the fields of Cyber Security 💻 and  Machine Learning.
 
