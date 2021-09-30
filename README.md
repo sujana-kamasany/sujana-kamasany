@@ -5,12 +5,13 @@
 - 🌱 I’m currently learning **Web Development** and exploring the fields of Cyber Security 💻 and  Machine Learning.
 
 
-- 💬 Ask me about **C, Python and Photography 📸**
+- 💬 Ask me about **C, Python and Front-end web development **
 
 - 📫 How to reach me **sujanakamasany@gmail.com**
 
 - ⚡ Fun fact **I love Stranger Things #uʍopǝpᴉsdn #eggos**
 
+- 📸 Also i love to do Photography
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujana--k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujana--k" height="30" width="40" /></a>
