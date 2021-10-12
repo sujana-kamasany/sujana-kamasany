@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Web Development** and exploring the fields of Cyber Security 💻 and  Machine Learning.
 
 
-- 💬 Ask me about **C, Python and Front-end web development **
+- 💬 Ask me about **C, Python and Front-end web development**
 
 - 📫 How to reach me **sujanakamasany@gmail.com**
 
