@@ -12,6 +12,9 @@
 - ⚡ Fun fact **I love Stranger Things #uʍopǝpᴉsdn #eggos**
 
 - 📸 Also i love to do Photography
+
+- 🖤 [Portfolio](flowcv.me/n5bsxnu121tv886jltyg5vnsli) Still working on!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujana--k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujana--k" height="30" width="40" /></a>
