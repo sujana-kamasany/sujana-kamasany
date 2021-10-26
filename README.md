@@ -13,7 +13,7 @@
 
 - 📸 Also i love to do Photography
 
-- 🖤 [Portfolio](https://flowcv.me/n5bsxnu121tv886jltyg5vnsli) Still working on!
+- 🖤 [Portfolio](flowcv.me/n5bsxnu121tv886jltyg5vnsli) Still working on!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
