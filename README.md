@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **sujanakamasany@gmail.com**
 
-- ⚡ Fun fact **I love Stranger Things #uʍopǝpᴉsdn #eggos**
-
-- 📸 Also i love to do Photography
+- ⚡ Fun fact i love to do Photography📸
 
 - 🖤 [Portfolio](flowcv.me/n5bsxnu121tv886jltyg5vnsli) Still working on!
 
