@@ -29,6 +29,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&theme=synthwave&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&langs_count=4&theme=synthwave&show)](https://github.com/sujana-kamasany/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&langs_count=5&theme=synthwave&show)](https://github.com/sujana-kamasany/github-readme-stats)
 
 
