@@ -1,4 +1,4 @@
-<img src="https://github.com/sujana-kamasany/sujana-kamasany/blob/main/gitbg.png"/>
+<img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/gitbg2.png"/>
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
 <h3 align="center">A Computer Science undergrad student who is exploring the world of Tech! </h3>
 
