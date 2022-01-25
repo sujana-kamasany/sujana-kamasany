@@ -61,7 +61,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&langs_count=5&theme=tokyonight&show)](https://github.com/sujana-kamasany/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=php,css&langs_count=5&theme=tokyonight&show)](https://github.com/sujana-kamasany/github-readme-stats)
 
 <br>
 
