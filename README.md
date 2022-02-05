@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact i love to do Photography📸
 
-- 🖤 [Portfolio](flowcv.me/n5bsxnu121tv886jltyg5vnsli) Still working on!
+- 🖤 [Portfolio](https://sujana-kamasany.github.io/) Still working on!
 
   ## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
 
