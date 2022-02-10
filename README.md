@@ -2,7 +2,7 @@
 <h1 align="center">Hola! 👋, I'm Sujana</h1>
 <h3 align="center">A Computer Science undergrad student who is exploring the world of Tech! </h3>
 
-- 🌱 I’m currently learning **Web Development** and exploring the fields of Cyber Security and Machine Learning.
+- 🌱 I’m currently learning **Web Development** , **UX Design** and  exploring the fields of Cyber Security and Machine Learning.
 
 - 💬 Ask me about **C, Python and Front-end web development**
 
