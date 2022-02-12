@@ -63,14 +63,6 @@
 </p>
 
 ##
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&theme=tokyonight&show_icons=true"/>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=php,css&langs_count=5&theme=tokyonight&show)](https://github.com/sujana-kamasany/github-readme-stats)
-
-<br>
-
+<p align="center">
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
+</p>
