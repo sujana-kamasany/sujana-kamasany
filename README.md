@@ -58,8 +58,10 @@
 ##
 
 <p align="center">
- <img height="118em"  src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sujana's GitHub Stats "/> 
- <img height="118em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
+<a href="https://github.com/sujana-kamasany">
+ <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sujana's GitHub Stats "/> 
+ <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
+</a>
 </p>
 
 ##
