@@ -65,5 +65,5 @@
 ##
 
 <p align="center">
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
+<img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
