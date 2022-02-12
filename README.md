@@ -12,7 +12,7 @@
 
 - 🖤 [Portfolio](https://sujana-kamasany.github.io/) Still working on!
 
-  ## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/sujana--k/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,6 +55,14 @@
 ![illustrators](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+##
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sujana's GitHub Stats "> 
+ <img  width="408px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages" />
+</p>
+
+##
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&theme=tokyonight&show_icons=true"/>
