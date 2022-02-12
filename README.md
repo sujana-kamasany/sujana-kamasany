@@ -59,7 +59,7 @@
 
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sujana's GitHub Stats "/> 
- <img  width="408px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
+ <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
 </p>
 
 ##
