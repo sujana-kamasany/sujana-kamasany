@@ -33,6 +33,7 @@
   
    <a href="https://www.polywork.com/sujana_kamasany">
     <img align="left"src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" />
+  
   </a>
 
   <br>
@@ -69,3 +70,7 @@
 <p align="center">
 <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+#
+  ![](https://komarev.com/ghpvc/?username=sujana-kamasany&color=6767B5)
