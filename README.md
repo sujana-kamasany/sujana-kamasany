@@ -57,20 +57,22 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ##
-
 <p align="center">
 <a href="https://github.com/sujana-kamasany">
  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&count_private=true&custom_title=Sujana's GitHub Stats "/> 
  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&hide=css,php&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
 </a>
 </p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujana-kamasany&theme=tokyonight" />
+</p>
+
 
 ##
-
 <p align="center">
 <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 
-#
+##
   ![](https://komarev.com/ghpvc/?username=sujana-kamasany&color=6767B5)
