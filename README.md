@@ -12,6 +12,8 @@
 
 - 🖤 [Portfolio](https://sujana-kamasany.github.io/) Still working on!
 
+- 🖤 Another [Portfolio](https://sujana-kamasany.github.io/sujana-kamasany-portfolio/) i recently did 
+
 ## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/sujana--k/" target="blank" >
