@@ -12,7 +12,7 @@
 
 - 🖤 [Portfolio](https://sujana-kamasany.github.io/) Still working on!
 
-- 🖤 Another [Portfolio](https://sujana-kamasany.github.io/sujana-kamasany-portfolio/) trying to add my photography to in here! stay tuned
+- 🖤 Another [Portfolio](https://sujana-kamasany.github.io/sujana-kamasany-portfolio.github.io/) trying to add my photography to in here! stay tuned
 
 ## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
 
