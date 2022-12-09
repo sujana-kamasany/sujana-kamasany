@@ -58,23 +58,16 @@
 ![illustrators](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-##
-<p align="center">
-<a href="https://github.com/sujana-kamasany">
- <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&show_icons=true&theme=tokyonight&private=True&custom_title=Sujana's GitHub Stats"/> 
- <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&layout=compact&theme=tokyonight&custom_title=Most Used Languages"/>
-</a>
-</p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujana-kamasany&theme=tokyonight&private=True" />
+<img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&layout=compact&theme=tokyonight" />
 </p>
 
-
-##
 <p align="center">
-<img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&icons=true&theme=tokyonight"/>
 </p>
 
+![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
 
 ##
   ![](https://komarev.com/ghpvc/?username=sujana-kamasany&color=6767B5)
