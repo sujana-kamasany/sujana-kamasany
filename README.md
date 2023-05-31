@@ -63,9 +63,7 @@
 <img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=sujana-kamasany&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=sujana-kamasany&icons=true&theme=tokyonight"/>
-</p>
+
 
 ![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
 
